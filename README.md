@@ -1,2 +1,2 @@
 # deai
-takutoya.github.io/deai/
+https://takutoya.github.io/deai/
